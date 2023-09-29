@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\prac\Debug\prac.exe
+C:\Users\DELL\source\repos\prac\Debug\prac.pdb
+C:\Users\DELL\source\repos\Bitf19m031 oop project\Debug\prac.exe
+C:\Users\DELL\source\repos\Bitf19m031 oop project\Debug\prac.pdb
+C:\Users\C.N Solut03214357697\Downloads\oopcpp\Bitf19m031 oop project\Debug\prac.exe
+C:\Users\C.N Solut03214357697\Downloads\oopcpp\Bitf19m031 oop project\Debug\prac.pdb
